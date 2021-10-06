@@ -19,7 +19,7 @@ repo_name: SupaeroDataScience/stat-ml
 repo_url: https://github.com/SupaeroDataScience/stat-ml
 
 nav:
-- overview: index.md
+- Overview: index.md
 
 markdown_extensions:
 - markdown.extensions.codehilite:
