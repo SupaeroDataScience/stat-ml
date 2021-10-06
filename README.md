@@ -15,23 +15,23 @@ Finally, chapter 6 makes two openings on two classic linear models, both in mach
 ## Chapters
 
 All documents in French.  
-[Chapter 1](../../cours/Cours_Chap1.pdf) Introduction  
-[Chapter 2](../../cours/Cours_Chap2.pdf) Régression linéaire    
-[Chapter 3](../../cours/Cours_Chap3.pdf) Sélection de modèle en régression linéaire multiple  
-[Chapter 4](../../cours/Cours_Chap4.pdf) Analyse de variance  
-[Chapter 5](../../cours/Cours_Chap5.pdf) Modèle linéaire mixte  
-[Chapter 6](../../cours/Cours_Chap6.pdf) Ouvertures  
-[Annexes](../../cours/Cours_Chap7.pdf)
+[Chapter 1](https://github.com/SupaeroDataScience/stat-ml/blob/master/cours/Cours_Chap1.pdf) Introduction  
+[Chapter 2](https://github.com/SupaeroDataScience/stat-ml/blob/master/cours/Cours_Chap2.pdf) Régression linéaire    
+[Chapter 3](https://github.com/SupaeroDataScience/stat-ml/blob/master/cours/Cours_Chap3.pdf) Sélection de modèle en régression linéaire multiple  
+[Chapter 4](https://github.com/SupaeroDataScience/stat-ml/blob/master/cours/Cours_Chap4.pdf) Analyse de variance  
+[Chapter 5](https://github.com/SupaeroDataScience/stat-ml/blob/master/cours/Cours_Chap5.pdf) Modèle linéaire mixte  
+[Chapter 6](https://github.com/SupaeroDataScience/stat-ml/blob/master/cours/Cours_Chap6.pdf) Ouvertures  
+[Annexes](https://github.com/SupaeroDataScience/stat-ml/blob/master/cours/Cours_Chap7_Annexe.pdf)
 
 ## Practical sessions
 
 All notebooks in French.  
 [Utilisation de scikit-learn pour la regression lineaire](https://github.com/SupaeroDataScience/stat-ml/blob/main/Exo1_SimpleRegression.ipynb.ipynb)  
-[Régression linéaire multiple et inférence statistique]()  
-[Regression multiple avec régularisaton et validation croisée]()  
-[Utilisation de Pandas et sklearn pour l'analyse de données réelles]()  
-[ANOVA]()  
-[Partial Least Squares]()  
-[Régression logistique et explicabilité]()  
+[Régression linéaire multiple et inférence statistique](https://github.com/SupaeroDataScience/stat-ml/blob/master/tp/Exo2_RegressionMultiple.ipynb)  
+[Regression multiple avec régularisaton et validation croisée](https://github.com/SupaeroDataScience/stat-ml/blob/master/tp/Exo3_RegressionMultipleReg.ipynb)  
+[Utilisation de Pandas et sklearn pour l'analyse de données réelles](https://github.com/SupaeroDataScience/stat-ml/blob/master/tp/Exo4_RealDataAnalysis.ipynb)  
+[ANOVA](https://github.com/SupaeroDataScience/stat-ml/blob/master/tp/Exo5_ANOVA.ipynb)  
+[Partial Least Squares](https://github.com/SupaeroDataScience/stat-ml/blob/master/tp/Exo6_PLSregression.ipynb)  
+[Régression logistique et explicabilité](https://github.com/SupaeroDataScience/stat-ml/blob/master/tp/Exo7_RegressionLogistique.ipynb)  
 
 
