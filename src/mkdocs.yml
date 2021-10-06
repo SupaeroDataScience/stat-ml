@@ -1,0 +1,37 @@
+site_name: Statistical Foundations of Machine Learning
+site_description: Statistical Foundations of Machine Learning section of the Algorithms in Machine Learning class at ISAE-Supaero
+site_url: https://supaerodatascience.github.io/stat-ml/
+site_dir: site
+strict: false
+use_directory_urls: false
+
+theme:
+  name: 'material'
+  palette:
+    primary: light blue
+    accent: light blue
+  logo: 'https://raw.githubusercontent.com/SupaeroDataScience/stat-ml/main/src/favicon.ico'
+  favicon: 'https://raw.githubusercontent.com/SupaeroDataScience/stat-ml/main/src/favicon.ico'
+  features:
+    - toc.autohide
+
+repo_name: SupaeroDataScience/stat-ml
+repo_url: https://github.com/SupaeroDataScience/stat-ml
+
+nav:
+- overview: index.md
+
+markdown_extensions:
+- markdown.extensions.codehilite:
+    guess_lang: false
+- toc:
+    permalink: 🔗
+- admonition
+- codehilite
+- extra
+- attr_list
+- pymdownx.details
+- pymdownx.superfences
+
+plugins:
+- search
