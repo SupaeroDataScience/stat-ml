@@ -14,7 +14,8 @@ Finally, chapter 6 makes two openings on two classic linear models, both in mach
 
 ## Schedule 
 
-In practice, the courses and practicals will be structured in four blocks, each of them containing 1 to 2 hours of course and 2 hours of practicals. All documents linked below are in French.
+In practice, the courses and practicals will be structured in four blocks, each of them containing 1 to 2 hours of course and 2 hours of practicals. All documents linked below are in French.  
+
 - [Block 1](https://github.com/SupaeroDataScience/stat-ml/blob/master/cours/Bloc1.pdf): In this block, chapter 1 and the 1D linear regression of chapter 2 will be seen in class. The practicals will deal with linear regression, outliers detection and an illustration of the concept of maximum likelihood.
 - [Block 2](https://github.com/SupaeroDataScience/stat-ml/blob/master/cours/Bloc2.pdf): This block deals with multi-variate linear regression (2nd part of chapter 2), regularisation and cross-validation (chapter 3). These concepts will be manipulated during the practicals.
 - [Block 3](https://github.com/SupaeroDataScience/stat-ml/blob/master/cours/Bloc3.pdf): This block is more related to statistical aspects of the linear model in data science and focuses on ANOVA (chapter 4). This method will be studied during the practicals, and some time will also be dedicated to further manipulate the concepts of block 2.  
@@ -33,7 +34,7 @@ All notebooks in French.
 
 ## Chapters
 
-All documents in French. These chapters correspond to the exact same contents studied during the 4 blocks above.
+All documents in French. These chapters correspond to the exact same contents studied during the 4 blocks above.  
 [Chapter 1](https://github.com/SupaeroDataScience/stat-ml/blob/master/cours/Cours_Chap1.pdf) Introduction  
 [Chapter 2](https://github.com/SupaeroDataScience/stat-ml/blob/master/cours/Cours_Chap2.pdf) Régression linéaire    
 [Chapter 3](https://github.com/SupaeroDataScience/stat-ml/blob/master/cours/Cours_Chap3.pdf) Sélection de modèle en régression linéaire multiple  
