@@ -35,7 +35,7 @@ All notebooks in French.
 ## Chapters
 
 All documents in French. These chapters correspond to the exact same contents studied during the 4 blocks above.  
-[Chapter 1](https://github.com/SupaeroDataScience/stat-ml/blob/main/cours/Cours_Chap1.pdf) Introduction  
+[Chapter 1](https://github.com/SupaeroDataScience/stat-ml/blob/main/cours/Cours_Chap1.pdf) Introduction (slides(...))  
 [Chapter 2](https://github.com/SupaeroDataScience/stat-ml/blob/main/cours/Cours_Chap2.pdf) Régression linéaire    
 [Chapter 3](https://github.com/SupaeroDataScience/stat-ml/blob/main/cours/Cours_Chap3.pdf) Sélection de modèle en régression linéaire multiple  
 [Chapter 4](https://github.com/SupaeroDataScience/stat-ml/blob/main/cours/Cours_Chap4.pdf) Analyse de variance  
