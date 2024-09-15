@@ -21,24 +21,5 @@ In practice, the courses and practicals will be structured in four blocks, each 
 - [Block 3](https://github.com/SupaeroDataScience/stat-ml/blob/main/cours/Bloc3.pdf): This block is more related to statistical aspects of the linear model in data science and focuses on ANOVA (chapter 4). This method will be studied during the practicals, and some time will also be dedicated to further manipulate the concepts of block 2.  
 - [Block 4](https://github.com/SupaeroDataScience/stat-ml/blob/main/cours/Bloc4.pdf): Extensions of the methods seen before will be seen in this block: Mixed models (chapter 5) and the mathematical construction of logistic regression and the PLS method. The practicals will first deal with PLS but also open questions on the interpretability of the decision rules in machine learning based on the logistic regression example.
 
-## Practical sessions
 
-All notebooks in French.  
-[Utilisation de scikit-learn pour la regression lineaire](https://github.com/SupaeroDataScience/stat-ml/blob/main/tp/Exo1_SimpleRegression.ipynb)  
-[Régression linéaire multiple et inférence statistique](https://github.com/SupaeroDataScience/stat-ml/blob/main/tp/Exo2_RegressionMultiple.ipynb)  
-[Regression multiple avec régularisaton et validation croisée](https://github.com/SupaeroDataScience/stat-ml/blob/main/tp/Exo3_RegressionMultipleReg.ipynb)  
-[Utilisation de Pandas et sklearn pour l'analyse de données réelles](https://github.com/SupaeroDataScience/stat-ml/blob/main/tp/Exo4_RealDataAnalysis.ipynb)  
-[ANOVA](https://github.com/SupaeroDataScience/stat-ml/blob/main/tp/Exo5_ANOVA.ipynb)  
-[Partial Least Squares](https://github.com/SupaeroDataScience/stat-ml/blob/main/tp/Exo6_PLSregression.ipynb)  
-[Régression logistique et explicabilité](https://github.com/SupaeroDataScience/stat-ml/blob/main/tp/Exo7_RegressionLogistique.ipynb)  
-
-## Chapters
-
-All documents in French. These chapters correspond to the exact same contents studied during the 4 blocks above.  
-[Chapter 1](https://github.com/SupaeroDataScience/stat-ml/blob/main/cours/Cours_Chap1.pdf) Introduction ([slides](https://github.com/SupaeroDataScience/stat-ml/blob/main/cours/ISAE22_FSML1.pdf))<br>
-[Chapter 2](https://github.com/SupaeroDataScience/stat-ml/blob/main/cours/Cours_Chap2.pdf) Régression linéaire ([slides](https://github.com/SupaeroDataScience/stat-ml/blob/main/cours/ISAE22_FSML2.pdf))<br>
-[Chapter 3](https://github.com/SupaeroDataScience/stat-ml/blob/main/cours/Cours_Chap3.pdf) Sélection de modèle en régression linéaire multiple ([slides](https://github.com/SupaeroDataScience/stat-ml/blob/main/cours/ISAE22_FSML3.pdf)) <br>
-[Chapter 4](https://github.com/SupaeroDataScience/stat-ml/blob/main/cours/Cours_Chap4.pdf) Analyse de variance  <br>
-[Chapter 5](https://github.com/SupaeroDataScience/stat-ml/blob/main/cours/Cours_Chap5.pdf) Modèle linéaire mixte  <br>
-[Chapter 6](https://github.com/SupaeroDataScience/stat-ml/blob/main/cours/Cours_Chap6.pdf) Ouvertures <br> 
-[Annexes](https://github.com/SupaeroDataScience/stat-ml/blob/main/cours/Cours_Chap7_Annexe.pdf)
+A file gathering all chapters is [here](https://github.com/SupaeroDataScience/stat-ml/blob/main/cours/cours2024.pdf)
