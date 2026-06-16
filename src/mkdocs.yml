@@ -39,10 +39,10 @@ nav:
   - Seminars: https://supaerodatascience.github.io/seminars.html
 
 - Resources:
-  - For current students: infostudents.md
-  - For prospective students: students.md
-  - For partners: partners.md
-  - Contact: contact.md
+  - For current students: https://supaerodatascience.github.io/infostudents.html
+  - For prospective students: https://supaerodatascience.github.io/students.html
+  - For partners: https://supaerodatascience.github.io/partners.html
+  - Contact: https://supaerodatascience.github.io/contact.html
 
 
 markdown_extensions:
