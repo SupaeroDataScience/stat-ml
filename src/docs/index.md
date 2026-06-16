@@ -1,3 +1,4 @@
+**FSD310 - Fundamentals of Decision Making**
 # Statistical Foundations of Machine Learning
 
 This 15h course develops important aspects of statistical modelling, which are particularly related to machine learning.

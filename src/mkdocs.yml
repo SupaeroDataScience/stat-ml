@@ -1,4 +1,4 @@
-site_name: Statistical Foundations of Machine Learning
+site_name: SDD
 site_description: Statistical Foundations of Machine Learning section of the Algorithms in Machine Learning class at ISAE-Supaero
 site_url: https://supaerodatascience.github.io/stat-ml/
 site_dir: site
@@ -14,12 +14,36 @@ theme:
   favicon: 'https://raw.githubusercontent.com/SupaeroDataScience/stat-ml/main/src/favicon.ico'
   features:
     - toc.autohide
+    - navigation.sections
 
 repo_name: SupaeroDataScience/stat-ml
 repo_url: https://github.com/SupaeroDataScience/stat-ml
 
+
 nav:
-- Overview: index.md
+- Home: https://supaerodatascience.github.io/index.html
+
+- Classes:
+  - Fundamentals of Decision Making: 
+    - Overview: https://supaerodatascience.github.io/310/index.html
+    - Data Engineering Fundamentals: https://supaerodatascience.github.io/310/ctf.html
+    - Statistical Models: index.md
+    - Optimization: https://supaerodatascience.github.io/310/opti.html
+  
+  - Machine Learning: https://supaerodatascience.github.io/aml.html
+
+  - Data Engineering: https://supaerodatascience.github.io/DE/
+
+  - Applied Data Science: https://supaerodatascience.github.io/313/index.html
+
+  - Seminars: https://supaerodatascience.github.io/seminars.html
+
+- Resources:
+  - For current students: infostudents.md
+  - For prospective students: students.md
+  - For partners: partners.md
+  - Contact: contact.md
+
 
 markdown_extensions:
 - markdown.extensions.codehilite:
