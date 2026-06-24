@@ -23,7 +23,7 @@ repo_url: https://github.com/SupaeroDataScience/stat-ml
 nav:
 - Home: https://supaerodatascience.github.io/index.html
 
-- Classes:
+- Courses:
   - Fundamentals of Decision Making: 
     - Overview: https://supaerodatascience.github.io/310/index.html
     - Data Engineering Fundamentals: https://supaerodatascience.github.io/310/ctf.html
