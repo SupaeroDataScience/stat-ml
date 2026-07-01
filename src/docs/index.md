@@ -3,6 +3,19 @@
 
 This 15h course develops important aspects of statistical modelling, which are particularly related to machine learning.
 
+Schedule | | |
+| --- | --- | --- |
+07/09 AM | Descriptive Statistics | 3h |
+08/09 AM | Probabilities | 3h |
+09/09 AM | Linear models | 3h |
+09/09 PM | Simple Linear regression | 3h |
+15/09 PM | Multiple Linear regression | 4h |
+23/09 PM | Mixed-effects models | 3h |
+28/09 PM | **Written Exam**  | 1h |
+30/09 PM | TBD | 2h |
+07/10 PM | TBD | 2h |
+
+
 Chapter 1 reviews the mathematical notions that will underlie machine learning. In particular, the notions of random variables, probability density and empirical estimation of model parameters will be rigorously defined and illustrated.
 
 Chapter 2 is central in this course as it presents the linear regression model from a statistical point of view, but opens up questions that are essential in machine learning, such as overfitting and cross-validation.
