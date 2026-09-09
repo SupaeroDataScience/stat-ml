@@ -6,7 +6,7 @@ This 15h course develops important aspects of statistical modelling, which are p
 Schedule | | |
 | --- | --- | --- |
 07/09 AM | Descriptive Statistics[^1] | 3h |
-08/09 AM | Probabilities[^1] | 3h |
+08/09 AM | Inferential Statistics[^1] | 3h |
 09/09 AM | Linear models[^1] | 3h |
 09/09 PM | Simple Linear regression and maximum likelihood | 3h |
 15/09 PM | Multiple Linear regression | 4h |
@@ -28,6 +28,14 @@ Chapters 4 and 5 push the statistical modeling aspects introduced in chapter 3 t
 Finally, chapter 6 makes two openings on two classic linear models, both in machine learning and in statistics, which are the logistic regression and the PLS method.
 
 ## Resources 
+
+### Descriptive statistics
+
+[Slides](cours/statistique.pdf)
+
+### Inferential Statistics
+
+[Slides](cours/stats_inf_proba.pdf)
 
 ### Linear models
 
