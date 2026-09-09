@@ -33,7 +33,7 @@ Finally, chapter 6 makes two openings on two classic linear models, both in mach
 
 Slides
 
-- [Topo historique](http://laurent.risser.free.fr/TMP_SHARE/ISAE/1_TopoHistorique.pdf)
+- [Topo historique](blob/main/cours/1_TopoHistorique.pdf)
 
 - [Statistique et Machine Learning pour la science des données](http://laurent.risser.free.fr/TMP_SHARE/ISAE/2_StatML1.pdf)
 
