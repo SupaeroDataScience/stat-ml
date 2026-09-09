@@ -47,3 +47,20 @@ Notebooks
 
 ### Simple Linear regression and maximum likelihood
 
+Slides
+
+- [Linear Regression](cours/3_Regression_Lineaire.pdf)
+
+Notebooks
+
+
+- [Exercise 1: Simple regression](notebooks/Exo1_SimpleRegression.ipynb)
+
+- [Exercise 2: Maximum Likelihood](notebooks/Exo2_MaxLikelihood.ipynb)
+
+- [Exercise 3: Maximum Likelihood](notebooks/Exo3_MaxLikelihood2.ipynb)
+
+- [Exercise 4: Linear regression errors](notebooks/Exo4_LinearRegressionErrors.ipynb)
+
+- [Exercise 6: Multiple linear regression](notebooks/Exo6_RegressionMultiple.ipynb)
+
