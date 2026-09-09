@@ -64,3 +64,6 @@ Notebooks
 
 - [Exercise 6: Multiple linear regression](notebooks/Exo6_RegressionMultiple.ipynb)
 
+Data
+
+- [QuantifiedDataExo1_3.csv](notebooks/QuantifiedDataExo1_3.csv)
