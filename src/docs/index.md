@@ -8,7 +8,7 @@ Schedule | | |
 07/09 AM | Descriptive Statistics[^1] | 3h |
 08/09 AM | Probabilities[^1] | 3h |
 09/09 AM | Linear models[^1] | 3h |
-09/09 PM | Simple Linear regression | 3h |
+09/09 PM | Simple Linear regression and maximum likelihood | 3h |
 15/09 PM | Multiple Linear regression | 4h |
 23/09 PM | Mixed-effects models | 3h |
 28/09 PM | **Written Exam**  | 1h |
@@ -33,14 +33,17 @@ Finally, chapter 6 makes two openings on two classic linear models, both in mach
 
 Slides
 
-- [Topo historique](blob/main/cours/1_TopoHistorique.pdf)
+- [Topo historique](cours/1_TopoHistorique.pdf)
 
-- [Statistique et Machine Learning pour la science des données](http://laurent.risser.free.fr/TMP_SHARE/ISAE/2_StatML1.pdf)
+- [Statistique et Machine Learning pour la science des données](cours/2_StatML1.pdf)
 
 Notebooks
 
 
-- [Likelihood](http://laurent.risser.free.fr/TMP_SHARE/ISAE/2a_likelihood.ipynb)
+- [Likelihood](notebooks/2a_likelihood.ipynb)
 
-- [Linear regression](http://laurent.risser.free.fr/TMP_SHARE/ISAE/2b_linear_regression.ipynb)
+- [Linear regression](notebooks/2b_linear_regression.ipynb)
+
+
+### Simple Linear regression and maximum likelihood
 
