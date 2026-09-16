@@ -70,8 +70,28 @@ Notebooks
 
 - [Exercise 4: Linear regression errors](notebooks/Exo4_LinearRegressionErrors.ipynb)
 
+- [Exercise 5: Linear regression optimization](notebooks/Exo5_LinearRegressionOptim.ipynb)
+
 - [Exercise 6: Multiple linear regression](notebooks/Exo6_RegressionMultiple.ipynb)
 
 Data
 
 - [QuantifiedDataExo1_3.csv](notebooks/QuantifiedDataExo1_3.csv)
+
+### Model Selection and Cross-Validation
+
+Slides
+
+- [Multivariate Linear Regression](cours/4_Selection_de_modele.pdf)
+
+
+Notebooks
+
+- [Exercise 7: Multiple regression and regularization](notebooks/Exo7_RegressionMultipleReg.ipynb)
+
+- [Exercise 8: Real Data Analysis](notebooks/Exo8_RealDataAnalysis.ipynb)
+
+Data
+
+- [RealMedicalData.csv](notebooks/RealMedicalData.csv)
+
