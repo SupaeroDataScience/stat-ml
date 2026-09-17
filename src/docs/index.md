@@ -12,8 +12,8 @@ Schedule | | |
 15/09 PM | Multiple Linear regression | 4h |
 23/09 PM | Mixed-effects models | 3h |
 28/09 PM | **Written Exam**  | 1h |
-30/09 PM | TBD | 2h |
-07/10 PM | TBD | 2h |
+30/09 PM | Introduction to Extreme Value Statistics | 2h |
+07/10 PM | Application to Imbalanced Classification | 2h |
 
 [^1]: Shared with SD
 
