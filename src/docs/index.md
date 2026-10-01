@@ -95,3 +95,9 @@ Data
 
 - [RealMedicalData.csv](notebooks/RealMedicalData.csv)
 
+
+### Introduction to Extreme Value Statistics
+
+
+[Slides](cours/Cours_Extreme_SDD_final.pdf)
+
