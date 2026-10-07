@@ -101,3 +101,4 @@ Data
 
 [Slides](cours/Cours_Extreme_SDD_final.pdf)
 
+[Classification dans les régions extrêmes](notebooks/TP_EVT_classification_extreme_enonce.ipynb)
